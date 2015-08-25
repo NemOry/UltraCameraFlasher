@@ -1,0 +1,1 @@
+include (../FlashNotification.pro)
